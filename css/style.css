@@ -360,6 +360,10 @@ body {
 	margin-top: 8em;
 }
 
+.invisibility-cloak {
+	display: none;
+}
+
 @media (max-width: 400px) {
 	#part-2 {
 		margin-top: 4em;
@@ -494,6 +498,52 @@ body {
 
 #section-6 {
 	margin-top: 6em;
+}
+
+.section-6-img-title {
+	font-size: 22px;
+	text-align: center;
+	font-weight: 700;
+	margin-top: 2em;
+}
+
+.section-6-img {
+	margin: auto;
+	margin-top: 1em;
+}
+
+#rich-investor {
+	width: 60%;
+	height: auto;
+}
+
+#multiple-investors {
+	width: 65%;
+	height: auto;
+}
+
+@media (max-width: 640px) {
+	#rich-investor {
+		width: 80%;
+	}
+
+	#multiple-investors {
+		width: 85%;
+	}
+}
+
+@media (max-width: 550px) {
+	#rich-investor {
+		width: 100%;
+	}
+
+	#multiple-investors {
+		width: 100%;
+	}
+
+	.section-6-img-title {
+		font-size: 18px;
+	}
 }
 
 @keyframes move-line {

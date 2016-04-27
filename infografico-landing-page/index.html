@@ -9,6 +9,9 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+	<div class="controller">
+		O conteúdo do site continua aqui
+	</div>	
 	<div id="infographic-container">
 		<div class="row">
 			<div class="small-12 columns">
@@ -341,7 +344,7 @@
 			</div>
 			<div class="row">
 				<div class="small-12 columns">
-					<a id="extend-button-link" href="http://google.com" onclick="javascript.togglesInvisibility(); return false;">
+					<a id="extend-button-link" href="http://google.com" onclick="toggleClass(); return false;">
 						<div id="extend-button">
 							<p><strong>Clique</strong> para Ver o Infográfico Completo</p>
 						</div>
@@ -350,7 +353,7 @@
 			</div>		
 		</div>
 		<div id="part-2">
-			<div id="invisible" class="invisibility-cloak">
+			<div id="hide-part" class="invisible">
 				<div id="section-5">
 					<div class="row">
 						<div class="large-8 medium-8 small-12 columns">
@@ -400,14 +403,14 @@
 					<div class="row">
 						<div class="small-12 columns">
 							<div id="equation-container">
-								<img src="images/equation.svg" alt="">
+								<img src="images/equation.svg" alt="Funcionamento da Blockchain">
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="small-12 columns">
 							<div id="equation-mobile-container">
-								<img src="images/equation-mobile-2.svg" alt="">
+								<img src="images/equation-mobile-2.svg" alt="Funcionamento da Blockchain">
 							</div>
 						</div>
 					</div>
@@ -422,12 +425,12 @@
 					<div class="row">
 						<div class="small-12 columns">
 							<div id="sky-img-container">
-								<img src="images/sky-img.svg" alt="">
+								<img src="images/sky-img.svg" alt="Aplicações da Blockchain">
 							</div>
 						</div>
 						<div class="small-12 columns">
 							<div id="sky-img-mobile-container">
-								<img src="images/sky-img-mobile.svg" alt="">
+								<img src="images/sky-img-mobile.svg" alt="Aplicações da Blockchain">
 							</div>
 						</div>
 					</div>
@@ -478,6 +481,9 @@
 				</div>
 			</div>	
 		</div>			
+	</div>
+	<div class="controller">
+		O conteúdo do site continua aqui
 	</div>	
 
 	<script type="text/javascript" src="js/skrollr.js"></script>
@@ -485,9 +491,14 @@
     	skrollr.init();
 	</script>
 	<script type="text/javascript">
-	    function togglesInvisibility() {
-	    	document.getElementById("invisible").toggleClass('invisibility-cloak');
-	    };
+	    function toggleClass() {
+	    	el = document.getElementById("hide-part");
+	    	if (el.className =="invisible") {
+	    		el.className = "visible";
+	    	} else {
+	    		el.className = "invisible";
+	    	}	
+	    }
 	</script>
 </body>
 </html>

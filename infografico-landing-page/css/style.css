@@ -6,6 +6,8 @@ body {
 	font-size: 18px;
 	color: #333;
 	text-align: left;
+	overflow:auto;
+	height: 100% !important; 
 }
 
 #infographic-container {
@@ -23,26 +25,29 @@ body {
 	font-weight: 300;
 	color: #f7f7f7;
 	text-align: center;
-	padding: 30px 0;
+	padding: 30px 10px;
 }
 
-@media (max-width: 850px) {
-	#infog-title {
-		font-size: 32px;
-		padding: 45px 10px;
+@media (max-width: 769px) {
+
+	#infog-title-div {
+		height: 210px;
 	}
 }
 
-@media (max-width: 531px) {
+@media (max-width: 506px) {
 	#infog-title {
-		padding: 20px 10px;
+		font-size: 38px;
+	}
+
+	#infog-title-div {
+		height: 180px;
 	}
 }
 
-@media (max-width: 405px) {
-	#infog-title {
-		font-size: 26px;
-		padding: 30px 0;
+@media (max-width: 412px) {
+	#infog-title-div {
+		height: 230px;
 	}
 }
 
@@ -55,7 +60,6 @@ body {
 	width: 100%;
 	height: 70px;
 	margin-left: 1em;
-	/*margin-top: 3em;*/
 }
 
 #section-1, #section-3, #section-4 {
@@ -87,7 +91,7 @@ body {
 		margin-left: 0;
 	}
 
-	#section-3, #section-4 {
+	#section-1, #section-3, #section-4 {
 		margin-top: 3em;
 	}
 }
@@ -166,7 +170,6 @@ body {
 	position: relative;
 	width: 100%;
 	height: 100%;
-	/*padding: 20px;*/
 	perspective: 800px;
 	z-index: 1;
 	transform-origin: center;
@@ -196,11 +199,6 @@ body {
 	}
 }
 
-/*#coin-turning-container:hover #coin-turning {
-	 transform: rotateY(180deg);
-	 transform-origin: center;
-}*/
-
 .face {
 	position: absolute;
  	width: 100%;
@@ -214,7 +212,6 @@ body {
 }
 
 #chain-circle {
-	/*position: absolute;*/
 	transform-origin: center;
 }
 
@@ -237,7 +234,7 @@ body {
 
 @media(max-width: 400px) {
 	#section-2 {
-		margin-top: 14em;
+		margin-top: 13em;
 	}
 }
 
@@ -549,6 +546,7 @@ body {
 		font-size: 18px;
 	}
 }
+
 .controller {
 	height: 400px;
 	width: 100%;
@@ -557,6 +555,56 @@ body {
 	color: #fff;
 	text-align: center;
 }
+
+@media (max-device-width: 768px) {
+	#transformed-section-4-img {
+		display: none;
+	}
+
+	#screen-1, #screen-2, #screen-3, #screen-4 {
+		fill:#EA9638;
+	}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+	#transformed-section-4-img {
+		display: none;
+	}
+
+	#screen-1, #screen-2, #screen-3, #screen-4 {
+		fill:#EA9638;
+	}
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+	#transformed-section-4-img {
+		display: none;
+	}
+
+	#screen-1, #screen-2, #screen-3, #screen-4 {
+		fill:#EA9638;
+	}
+}
+
+/* The New iPad (iPad 3) ----------- */
+@media only screen
+and (min-device-width: 1536px)
+and (max-device-width: 2048px)
+and (-webkit-min-device-pixel-ratio: 2) {
+	#transformed-section-4-img {
+		display: none;
+	}
+
+	#screen-1, #screen-2, #screen-3, #screen-4 {
+		fill:#EA9638;
+	}
+}
+
 
 @keyframes move-line {
 	0% {

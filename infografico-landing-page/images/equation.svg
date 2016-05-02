@@ -4,24 +4,27 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1058.553px" height="409.89px" viewBox="0 0 1058.553 409.89" enable-background="new 0 0 1058.553 409.89"
 	 xml:space="preserve">
+<defs>
+<style type="text/css">@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic,700|Roboto:400,700,500');</style>
+</defs>	 
 <circle fill="#E2E2E2" cx="144.553" cy="140.166" r="140.166"/>
 <circle fill="#E2E2E2" cx="504.553" cy="139.166" r="139.166"/>
 <circle fill="#E2E2E2" cx="876.553" cy="165.318" r="165.318"/>
 <g>
 	<rect x="49.308" y="56.4" fill="none" width="190.49" height="18.133"/>
-	<text transform="matrix(1 0 0 1 51.563 73.1196)" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Uma Rede Pública</text>
+	<text transform="matrix(1 0 0 1 51.563 73.1196)" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Uma Rede Pública</text>
 </g>
 <g>
 	<rect x="436.762" y="43.869" fill="none" width="135.582" height="43.195"/>
-	<text transform="matrix(1 0 0 1 452.5068 60.5884)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Incentivos </tspan><tspan x="-9.491" y="26.4" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Econômicos</tspan></text>
+	<text transform="matrix(1 0 0 1 452.5068 60.5884)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Incentivos </tspan><tspan x="-9.491" y="26.4" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Econômicos</tspan></text>
 </g>
 <g>
 	<rect x="763.278" y="49.178" fill="none" width="226.549" height="72.578"/>
-	<text transform="matrix(1 0 0 1 796.4268 65.8965)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Manutenção de </tspan><tspan x="-15.409" y="26.4" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Consenso Sem um </tspan><tspan x="-30.19" y="52.8" fill="#333333" font-family="'Open Sans', sans-serif" font-size="22">Intermediário Central</tspan></text>
+	<text transform="matrix(1 0 0 1 796.4268 65.8965)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Manutenção de </tspan><tspan x="-15.409" y="26.4" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Consenso Sem um </tspan><tspan x="-30.19" y="52.8" fill="#333333" font-family="'Roboto', sans-serif" font-weight="500" font-size="22">Intermediário Central</tspan></text>
 </g>
 <g>
 	<rect y="297.168" fill="none" width="289.105" height="112.722"/>
-	<text transform="matrix(1 0 0 1 85.4595 310.8477)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Mais Usuários</tspan><tspan x="53.947" y="21.601" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">= </tspan><tspan x="-68.291" y="43.2" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Mais Poder de Processamento</tspan><tspan x="53.947" y="64.8" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">= </tspan><tspan x="-6.882" y="86.4" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Mais Segurança</tspan></text>
+	<text transform="matrix(1 0 0 1 85.4595 310.8477)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Mais Usuários</tspan><tspan x="53.947" y="21.601" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">= </tspan><tspan x="-68.291" y="43.2" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Mais Poder de Processamento</tspan><tspan x="53.947" y="64.8" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">= </tspan><tspan x="-6.882" y="86.4" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Mais Segurança</tspan></text>
 </g>
 <g>
 	
@@ -146,13 +149,13 @@
 				<path fill="#FFCCB0" d="M486.553,166.527c0,0,1.36,0.614,1.33,1.079c-0.018,0.277,0.244,0.962-0.137,0.962
 					c-0.384,0,0.24,0.592,0.239,0.591l1.561-0.138l-0.896-3.087l-2.097-0.069V166.527z"/>
 			</g>
-			<text transform="matrix(1 0 0 1 491.0361 212.0215)" fill="#F7F7F7" font-family="'Open Sans', sans-serif" font-size="30.5678">$</text>
+			<text transform="matrix(1 0 0 1 491.0361 212.0215)" fill="#F7F7F7" font-family="'Roboto', sans-serif" font-size="30.5678">$</text>
 		</g>
 	</g>
 </g>
 <g>
 	<rect x="367.616" y="300.666" fill="none" width="301.948" height="65"/>
-	<text transform="matrix(1 0 0 1 367.6157 314.3457)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">A recompensa da mineração faz a </tspan><tspan x="0" y="21.601" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">trapaça ser menos vantajosa do </tspan><tspan x="0" y="43.2" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">que a colaboração honesta.</tspan></text>
+	<text transform="matrix(1 0 0 1 367.6157 314.3457)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">A recompensa da mineração faz a </tspan><tspan x="0" y="21.601" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">trapaça ser menos vantajosa do </tspan><tspan x="0" y="43.2" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">que a colaboração honesta.</tspan></text>
 </g>
 <g>
 	<path fill="#CCCCCC" d="M356,360.666c0,3.412,0.995,5.963,2.985,7.652c1.99,1.688,5.377,2.584,10.162,2.684v4.566

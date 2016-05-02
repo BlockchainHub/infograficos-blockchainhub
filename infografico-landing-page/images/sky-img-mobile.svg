@@ -14,11 +14,11 @@
 	</g>
 	<g>
 		<rect x="59.956" y="250.243" fill="none" width="222.09" height="41.248"/>
-		<text transform="matrix(1 0 0 1 72.9844 263.9229)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Transferência de Ativos </tspan><tspan x="50.027" y="21.601" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Financeiros</tspan></text>
+		<text transform="matrix(1 0 0 1 72.9844 263.9229)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Transferência de Ativos </tspan><tspan x="50.027" y="21.601" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Financeiros</tspan></text>
 	</g>
 	<g>
 		<rect x="94.711" y="65.958" fill="none" width="152.578" height="15.53"/>
-		<text transform="matrix(1 0 0 1 102.6602 81.1582)" fill="#333333" font-family="'Open Sans', sans-serif" font-weight="700" font-size="20">Colored Coins</text>
+		<text transform="matrix(1 0 0 1 102.6602 81.1582)" fill="#333333" font-family="'Roboto', sans-serif" font-weight="700" font-size="20">Colored Coins</text>
 	</g>
 	<g>
 		<g>
@@ -52,11 +52,11 @@
 	</g>
 	<g>
 		<rect x="63.227" y="982.604" fill="none" width="215.547" height="56.888"/>
-		<text transform="matrix(1 0 0 1 111.5728 996.2832)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Criptomoedas </tspan><tspan x="54.281" y="21.601" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">+</tspan><tspan x="-20.729" y="43.2" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Internet das Coisas</tspan></text>
+		<text transform="matrix(1 0 0 1 111.5728 996.2832)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Criptomoedas </tspan><tspan x="54.281" y="21.601" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">+</tspan><tspan x="-20.729" y="43.2" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Internet das Coisas</tspan></text>
 	</g>
 	<g>
 		<rect x="76.9" y="813.958" fill="none" width="188.2" height="15.53"/>
-		<text transform="matrix(1 0 0 1 86.0928 829.1582)" fill="#333333" font-family="'Open Sans', sans-serif" font-weight="700" font-size="20">Smart Properties</text>
+		<text transform="matrix(1 0 0 1 86.0928 829.1582)" fill="#333333" font-family="'Roboto', sans-serif" font-weight="700" font-size="20">Smart Properties</text>
 	</g>
 	
 		<line fill="none" stroke="#333333" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4" x1="58.167" y1="911" x2="229.167" y2="911"/>
@@ -155,11 +155,11 @@
 	</g>
 	<g>
 		<rect x="55.228" y="608.486" fill="none" width="230.544" height="57.005"/>
-		<text transform="matrix(1 0 0 1 69.7861 622.166)"><tspan x="0" y="0" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Propriedade Intelectual;</tspan><tspan x="11.971" y="21.601" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Sistemas de Votação;</tspan><tspan x="19.358" y="43.2" fill="#333333" font-family="'Open Sans', sans-serif" font-size="18">Registros Notariais; </tspan></text>
+		<text transform="matrix(1 0 0 1 69.7861 622.166)"><tspan x="0" y="0" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Propriedade Intelectual;</tspan><tspan x="11.971" y="21.601" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Sistemas de Votação;</tspan><tspan x="19.358" y="43.2" fill="#333333" font-family="'Roboto', sans-serif" font-size="18">Registros Notariais; </tspan></text>
 	</g>
 	<g>
 		<rect x="70.711" y="440.083" fill="none" width="199.578" height="15.28"/>
-		<text transform="matrix(1 0 0 1 80.0898 455.2832)" fill="#333333" font-family="'Open Sans', sans-serif" font-weight="700" font-size="20">Registros Públicos</text>
+		<text transform="matrix(1 0 0 1 80.0898 455.2832)" fill="#333333" font-family="'Roboto', sans-serif" font-weight="700" font-size="20">Registros Públicos</text>
 	</g>
 	<g>
 		<path fill="#EEA315" d="M122.794,542.071c0,11.288,4.372,21.663,10.372,29.888v-59.775

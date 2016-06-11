@@ -57,6 +57,15 @@ body {
 	overflow:auto;
 }
 
+a {
+	text-decoration: none;
+	color: #39ABD8;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 #infographic-title-div {
 	height: 135px;
 	width: 100%;
@@ -72,27 +81,28 @@ body {
 	padding: 40px 10px;
 }
 
-@media (max-width: 878px) {
+@media (max-width: 890px) {
 
-	#infog-title-div {
-		height: 220px;
+	#infographic-title {
+		font-size: 35px;
 	}
 }
 
-@media (max-width: 567px) {
-	#infog-title {
-		font-size: 42px;
-		font-weight: 500;
-	}
-
-	#infog-title-div {
-		height: 180px;
+@media (max-width: 693px) {
+	#infographic-title {
+		line-height: 1.2em;
+		padding: 20px 10px;
 	}
 }
 
-@media (max-width: 445px) {
-	#infog-title-div {
-		height: 250px;
+@media (max-width: 398px) {
+	#infographic-title {
+		font-size: 27px;
+		padding: 30px 10px;
+	}
+
+	#infographic-title-div {
+		background-size: cover;
 	}
 }
 
@@ -130,7 +140,7 @@ body {
 		font-size: 20px;
 		padding-left: 0;
 		text-align: center;
-		padding-top: 18px;
+		padding-top: 25px;
 
 	}
 
@@ -202,6 +212,12 @@ body {
 	margin-top: 1.8em;
 }
 
+@media (max-width: 640px) {
+	.features-list {
+		margin-top: 2.2em; 
+	}
+}
+
 .list-title {
 	font-size: 1.2em;
 	margin-bottom: 1.2em;
@@ -227,6 +243,169 @@ body {
 
 #arrow-container {
 	width: 100%;
-	text-align: left;
+	text-align: right;
+	margin-top: 1.4em; 
 }
 
+@media (max-width: 760px) {
+	#arrow-container {
+		display: none;
+	}
+}
+
+.image-container {
+	text-align: center;
+}
+
+@media (max-width: 640px) {
+	.image-container {
+		margin-top: 1.4em;	
+	}
+}
+
+.text-parts {
+	margin-top: 1em;
+}
+
+@media (max-width: 640px) {
+	.text-parts {
+		margin-top: 2em;
+	}
+}
+
+#paragraph-1 {
+	margin-top: 60px;
+	padding-left: 68px;
+
+}
+
+#hidden-paragraph {
+	display: none;
+	margin-top: 10px;
+	padding: 0;
+}
+
+#paragraph-2 {
+	margin-top: 50px;
+	padding-right: 68px;
+}
+
+@media (max-width: 640px) {
+	#hidden-paragraph {
+		display: block;
+	}	
+
+	#paragraph-2 {
+		display:none;
+	}
+}
+
+#paragraph-3 {
+	margin-top: 35px;
+	padding-left: 68px;
+}
+
+#paragraph-4 {
+	margin-top: 10px;
+	padding-left: 68px;
+}
+
+@media (max-width: 640px) {
+	#paragraph-1, #paragraph-2, #paragraph-3, #paragraph-4 {
+		padding-left: 0;
+		margin-top: 10px;
+	}
+}
+
+.diagram-list {
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+
+.diagram-list li {
+	display: inline-block;
+	height: 100%;
+	padding: 0 20px;
+}
+
+#diagram-container {
+	width: 100%;
+	text-align: center;
+	margin-top: 2em;
+}
+
+/*#diagram-part-1 {
+	text-align: center;
+	width: 100%;
+	margin: auto;
+	margin-top: 2em;
+}*/
+
+.diagram-text {
+	background: #E2E2E2;
+	padding: 20px;
+	border-radius: 10px;
+	float: left;
+	line-height: 1.1em;
+	/*margin-top: 1.5em;*/
+}
+
+.diagram-image {
+	margin: auto;
+}
+
+.text-item {
+	margin-bottom: 1.4em;
+}
+
+@media (max-width: 640px) {
+	.text-item {
+		margin-bottom: 0;
+	}
+}
+
+.diagram-arrow {
+	margin:auto;
+	margin-bottom: 1em;
+}
+
+@media (max-width: 640px) {
+	#second-diagram-arrow {
+		display: none;
+	}
+}
+
+#aproving-section {
+	margin-top: 1.4em;
+}
+
+.diagram-list-block {
+	margin:0;
+	padding: 0;
+	text-align: center;
+}
+
+.diagram-list-block li {
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.diagram-bg {
+	background: #e2e2e2;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+@media (max-width: 640px) {
+	.diagram-bg {
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+	}
+}
+
+#source-section {
+	margin-top: 4em;
+	margin-bottom: 2em;
+}

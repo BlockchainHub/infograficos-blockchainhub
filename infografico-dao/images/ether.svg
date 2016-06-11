@@ -7,11 +7,11 @@
 <path fill="#E2E2E2" d="M334,279.117c0,6.627-5.373,12-12,12H12c-6.627,0-12-5.373-12-12v-94c0-6.627,5.373-12,12-12h310
 	c6.627,0,12,5.373,12,12V279.117z"/>
 <g>
-	<text transform="matrix(1 0 0 1 142.2339 204.5586)" fill="#333333" font-family="'OpenSans-Semibold'" font-size="20">Ether</text>
+	<text transform="matrix(1 0 0 1 147.4438 204.5586)" fill="#666666" font-family="'Roboto Condensed'" font-weight="700" font-size="20">Ether</text>
 </g>
 <g>
 	<rect x="36.059" y="223.026" fill="none" width="261.407" height="44.182"/>
-	<text transform="matrix(1 0 0 1 38.061 238.2266)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans'" font-size="20">É o combustível (token) que </tspan><tspan x="19.321" y="28" fill="#333333" font-family="'OpenSans'" font-size="20">move a rede Ethereum.</tspan></text>
+	<text transform="matrix(1 0 0 1 58.8667 238.2656)"><tspan x="0" y="0" fill="#666666" font-family="'Roboto Condensed'" font-size="20">É o combustível (token) que </tspan><tspan x="18.667" y="28" fill="#666666" font-family="'Roboto Condensed'" font-size="20">move a rede Ethereum.</tspan></text>
 </g>
 <g>
 	<path fill="#333333" d="M167.539,28.074c-36.029,0-65.236,29.207-65.236,65.238c0,18.014,7.32,34.307,19.125,46.111l92.225-92.225

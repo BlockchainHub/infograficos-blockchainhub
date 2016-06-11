@@ -58,18 +58,175 @@ body {
 }
 
 #infographic-title-div {
-	height: 140px;
+	height: 135px;
 	width: 100%;
 	background: url('../images/title-bg.svg');
 }
 
 #infographic-title {
 	font-family: 'Roboto',  Helvetica, Arial, Lucida, sans-serif;
-	font-size: 55px;
+	font-size: 45px;
 	font-weight: 400;
 	color: #f7f7f7;
 	text-align: center;
-	padding: 30px 10px;
+	padding: 40px 10px;
 }
 
+@media (max-width: 878px) {
+
+	#infog-title-div {
+		height: 220px;
+	}
+}
+
+@media (max-width: 567px) {
+	#infog-title {
+		font-size: 42px;
+		font-weight: 500;
+	}
+
+	#infog-title-div {
+		height: 180px;
+	}
+}
+
+@media (max-width: 445px) {
+	#infog-title-div {
+		height: 250px;
+	}
+}
+
+.section {
+	margin-top: 4em;
+}
+
+.section-title-div {
+	border-radius: 20px;
+	width: 100%;
+	height: 70px;
+	margin-left: 1em;
+}
+
+
+#section-1-title-div, #section-3-title-div, #section-5-title-div {
+	background-color: #333;
+}
+
+#section-2-title-div, #section-4-title-div, #section-6-title-div {
+	background-color: #eea315;
+}
+
+.section-title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #f7f7f7;
+	font-weight: 500;
+	padding-left: 50px;
+	padding-top: 20px;
+}
+
+@media (max-width: 400px) {
+	.section-title {
+		font-size: 20px;
+		padding-left: 0;
+		text-align: center;
+		padding-top: 18px;
+
+	}
+
+	.section-title-div {
+		margin-left: 0;
+	}
+
+	#section-1, #section-3, #section-4 {
+		margin-top: 3em;
+	}
+}
+
+.title-outer-circle {
+	border-radius: 100%;
+	background-color: #333;
+	width: 55px;
+	height: 55px;
+	position: absolute;
+	margin-top:0.4em;
+}
+
+.yellow-circle {
+	background-color: #EEA315;
+}
+
+.title-inner-circle {
+	border-radius: 100%;
+	background-color: #e2e2e2;
+	width: 32px;
+	height: 32px;
+	margin: auto;
+	margin-top: 11px;
+}
+
+@media (max-width: 400px) {
+	.title-inner-circle, .title-outer-circle {
+		display: none;
+	}
+}
+
+.paragraph {
+	padding-left: 68px;
+	padding-top: 25px;	
+}
+
+@media(max-width: 640px) {
+	.paragraph {
+		padding-left: 0;
+	}
+}
+
+.paragraph p {
+	margin-top: 20px; 
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.features-list {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	display: block;
+	margin-top: 1.8em;
+}
+
+.list-title {
+	font-size: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+.list-image {
+	margin-bottom: 1.2em;
+}
+
+.list-text {
+	margin-bottom: 1.4em;
+}
+
+.list-text-section-2 {
+	padding: 0 50px;
+}
+
+@media (max-width: 640px) {
+	.list-text-section-2 {
+		padding: 0;
+	}
+}
+
+#arrow-container {
+	width: 100%;
+	text-align: left;
+}
 

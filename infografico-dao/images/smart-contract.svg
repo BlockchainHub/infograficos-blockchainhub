@@ -52,12 +52,10 @@
 	</g>
 </g>
 <g>
-	<g>
-		<text transform="matrix(1 0 0 1 113.582 222.3579)" fill="#333333" font-family="'OpenSans-Semibold'" font-size="20">Smart Contract</text>
-	</g>
-	<g>
-		<rect x="23" y="241.735" fill="none" width="326" height="73"/>
-		<text transform="matrix(1 0 0 1 30.8682 256.9341)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans'" font-size="20">(contratos inteligente): termos de </tspan><tspan x="-6.758" y="28" fill="#333333" font-family="'OpenSans'" font-size="20">um contrato tradicional traduzidos </tspan><tspan x="31.865" y="56" fill="#333333" font-family="'OpenSans'" font-size="20">para linguagem de código.</tspan></text>
-	</g>
+	<text transform="matrix(1 0 0 1 127.4541 222.3579)" fill="#666666" font-family="'Roboto Condensed'" font-weight="700" font-size="20">Smart Contract</text>
+</g>
+<g>
+	<rect x="33.335" y="241.735" fill="none" width="304" height="73"/>
+	<text transform="matrix(1 0 0 1 40.9409 256.9751)"><tspan x="0" y="0" fill="#666666" font-family="'Roboto Condensed'" font-size="20">(contratos inteligente): termos de um </tspan><tspan x="5.22" y="28" fill="#666666" font-family="'Roboto Condensed'" font-size="20">contrato tradicional traduzidos para </tspan><tspan x="61.445" y="56" fill="#666666" font-family="'Roboto Condensed'" font-size="20">linguagem de código.</tspan></text>
 </g>
 </svg>

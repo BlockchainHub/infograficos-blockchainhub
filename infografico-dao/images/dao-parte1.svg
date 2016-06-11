@@ -6,7 +6,7 @@
 	 xml:space="preserve">
 <g>
 	<circle fill="#333333" cx="139.298" cy="139.299" r="49.5"/>
-	<text transform="matrix(1 0 0 1 111.4717 146.3232)" fill="#FFFFFF" font-family="'OpenSans-Bold'" font-size="25">DAO</text>
+	<text transform="matrix(1 0 0 1 111.4717 146.3232)" fill="#FFFFFF" font-family="'Roboto'" font-weight="700" font-size="28">DAO</text>
 </g>
 <g>
 	<g>

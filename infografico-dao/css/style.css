@@ -246,6 +246,21 @@ a:hover {
 	margin: 0 60px;
 }
 
+@media (max-width: 450px) {
+	.reduced-bg {
+		margin: 0 10px;
+	}
+}
+.negative-margin-image {
+	margin-bottom: -1em;
+}
+
+@media (max-width: 640px) {
+	.negative-margin-image {
+		margin-bottom: -1.4em;
+	}
+}
+
 #arrow-container {
 	width: 100%;
 	text-align: right;

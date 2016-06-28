@@ -2,23 +2,15 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="374px" height="336.833px" viewBox="0 0 374 336.833" enable-background="new 0 0 374 336.833" xml:space="preserve">
-<circle fill="#E2E2E2" cx="185.762" cy="104.312" r="104.312"/>
-<path fill="#E2E2E2" d="M374,324.833c0,6.627-5.373,12-12,12H12c-6.627,0-12-5.373-12-12v-124c0-6.627,5.373-12,12-12h350
-	c6.627,0,12,5.373,12,12V324.833z"/>
+	 width="208.623px" height="208.623px" viewBox="0 0 208.623 208.623" enable-background="new 0 0 208.623 208.623"
+	 xml:space="preserve">
+<circle fill="#E2E2E2" cx="104.312" cy="104.312" r="104.312"/>
 <g>
-	<text transform="matrix(1 0 0 1 149.647 222.3584)" fill="#666666" font-family="'Roboto Condensed'" font-weight="700" font-size="20">Ethereum</text>
-</g>
-<g>
-	<rect x="28.666" y="241.735" fill="none" width="317" height="73"/>
-	<text transform="matrix(1 0 0 1 44.2417 256.9746)"><tspan x="0" y="0" fill="#666666" font-family="'Roboto Condensed'" font-size="20">Plataforma descentralizada que roda </tspan><tspan x="6.724" y="28" fill="#666666" font-family="'Roboto Condensed'" font-size="20">smart contracts na sua blockchain.</tspan></text>
-</g>
-<g>
-	<polygon fill="#333333" points="186,28.225 144.252,97.749 186,78.696 	"/>
-	<polygon fill="#131313" points="186,28.225 227.748,97.749 186,78.696 	"/>
-	<polygon fill="#070707" points="186,78.696 227.748,97.749 186,122.316 	"/>
-	<polygon fill="#141414" points="186,78.696 144.252,97.749 186,122.316 	"/>
-	<polygon fill="#333333" points="144.451,103.431 186.207,162.259 186.199,127.915 	"/>
-	<polygon fill="#131313" points="227.988,103.431 186.232,162.259 186.24,127.915 	"/>
+	<polygon fill="#333333" points="104.872,28.225 63.124,97.749 104.872,78.696 	"/>
+	<polygon fill="#131313" points="104.872,28.225 146.62,97.749 104.872,78.696 	"/>
+	<polygon fill="#070707" points="104.872,78.696 146.62,97.749 104.872,122.315 	"/>
+	<polygon fill="#141414" points="104.872,78.696 63.124,97.749 104.872,122.315 	"/>
+	<polygon fill="#333333" points="63.001,103.431 104.757,162.259 104.749,127.915 	"/>
+	<polygon fill="#131313" points="146.538,103.431 104.782,162.259 104.79,127.915 	"/>
 </g>
 </svg>

@@ -55,6 +55,7 @@ body {
 	font-weight: 400;
 	text-align: left;
 	overflow:auto;
+	line-height: 1.2em;
 }
 
 a {
@@ -239,6 +240,10 @@ a:hover {
 	.list-text-section-2 {
 		padding: 0;
 	}
+}
+
+.reduced-bg {
+	margin: 0 60px;
 }
 
 #arrow-container {
